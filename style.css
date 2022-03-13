@@ -1,0 +1,32 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.color1 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+.color2 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.center{
+text-align: center;
+}
+
+.text{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.space{
+ padding-left: 540px;
+}
